@@ -4,7 +4,7 @@ This repository contains code for the paper
 [Sampling in Constrained Domains with Orthogonal-Space Variational Gradient Descent](https://arxiv.org/pdf/2210.06447.pdf), accepted in _Conference on Neural Information Processing Systems (NeurIPS), 2022_.
 
 ```bibtex
-@article{zhang2022langevinlike,
+@article{zhang2022sampling,
   title={Sampling in Constrained Domains with Orthogonal-Space Variational Gradient Descent},
   author={Zhang, Ruqi and Liu, Qiang and Tong, Xin T.},
   journal={Conference on Neural Information Processing Systems},
